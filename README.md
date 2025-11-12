@@ -1,4 +1,5 @@
 # QuickBars — Home Assistant Integration (HACS)
+# NOTE: This integration is NOT active at the moment, the code is public anyway, but the app does NOT support the features here.
 
 > Display overlays, PiP cameras, and rich notifications on **Android/Google TV** via the QuickBars TV app — controlled by your Home Assistant automations.
 
